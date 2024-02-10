@@ -1,3 +1,9 @@
+# App Description
+This is a basic counter app shows how we can manage the state with redux
+includes some styling in tailwind CSS which is a utility-first CSS framework packed with classes
+it helps us to build modern websites without ever leaving the markup.
+TODO --> the weakness of this way of state management
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
