@@ -1,8 +1,8 @@
 # App Description
-This is a basic counter app shows how we can manage the state with redux
+This is a basic counter app shows how we can manage the state with redux toolkit
+which enables us to get rid of hard coded action types and writing if-statement for every state mutation
 includes some styling in tailwind CSS which is a utility-first CSS framework packed with classes
 it helps us to build modern websites without ever leaving the markup.
-TODO --> the weakness of this way of state management
 
 # Getting Started with Create React App
 
